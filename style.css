@@ -1,0 +1,71 @@
+:root{
+	 background-color:rgb(230, 230, 250);
+
+}
+ 
+.Bienvenida{
+	text-align: center;
+}
+
+.item{
+	background-color: rgb(186, 85, 211);
+	margin:0;
+	font-family: cursive;
+	text-align: center;
+	color: #F8F8FF;
+
+}
+
+.img{
+	margin: 10px auto;
+  display: block;
+  width: 200px;
+	height: 200px;
+	 border-radius:150px;
+}
+
+.colores{
+	margin: 10px auto;
+  display: block;
+  width: 400px;
+	height: 200px;
+}
+
+.respuestas{
+
+	background-color: hsl(248, 39%, 39.2%);
+	text-align: unset;
+	color: #F8F8FF;
+}
+.Button{
+	background-color: rgb(0, 0, 0);
+	font-family: cursive;
+   color: #FAEBD7;
+   font-weight: 2000;
+   text-align: center;
+  
+}
+.h1{
+
+	text-align: center;
+
+}
+
+.button{ 
+	width: 100px;
+	height: 50px;
+	font-size: 120%;
+	transition-duration: 0.4s;
+	
+
+}
+
+.button:hover{
+	background-color: #FF0000; 
+  color: white;
+
+}
+
+.index{
+
+}
